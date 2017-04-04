@@ -1,1 +1,4 @@
 # JediTraining
+Contributors:
+
+Amilton Justino
